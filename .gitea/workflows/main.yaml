@@ -15,10 +15,9 @@ jobs:
         with:
           go-version-file: go.mod
           cache: true
-      - name: Get dependencies
-        run: |
-          go get -v -t -d ./...
+      - name: Vet checks
+        run: go vet -v ./...
       - name: Build
-        run: go build -v .
+        run: go build -v ./...
       - name: Test
         run: go test -v .
