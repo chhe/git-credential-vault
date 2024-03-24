@@ -1,4 +1,4 @@
-module github.com/Luzifer/git-credential-vault
+module github.com/chhe/git-credential-vault
 
 go 1.22
 
