@@ -3,11 +3,11 @@ module github.com/Luzifer/git-credential-vault
 go 1.22
 
 require (
-	github.com/Luzifer/go_helpers/v2 v2.13.0
+	github.com/Luzifer/go_helpers/v2 v2.23.0
 	github.com/Luzifer/rconfig/v2 v2.4.0
 	github.com/hashicorp/vault/api v1.12.2
 	github.com/pkg/errors v0.9.1
-	github.com/sirupsen/logrus v1.8.1
+	github.com/sirupsen/logrus v1.9.3
 )
 
 require (
@@ -50,7 +50,7 @@ require (
 	go.uber.org/atomic v1.9.0 // indirect
 	golang.org/x/crypto v0.19.0 // indirect
 	golang.org/x/net v0.17.0 // indirect
-	golang.org/x/sys v0.17.0 // indirect
+	golang.org/x/sys v0.18.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/time v0.0.0-20200416051211-89c76fbcd5d1 // indirect
 	google.golang.org/genproto v0.0.0-20200526211855-cb27e3aa2013 // indirect
