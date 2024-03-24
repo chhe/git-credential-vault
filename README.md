@@ -1,10 +1,6 @@
-[![Go Report Card](https://goreportcard.com/badge/github.com/Luzifer/git-credential-vault)](https://goreportcard.com/report/github.com/Luzifer/git-credential-vault)
-![](https://badges.fyi/github/license/Luzifer/git-credential-vault)
-![](https://badges.fyi/github/downloads/Luzifer/git-credential-vault)
-![](https://badges.fyi/github/latest-release/Luzifer/git-credential-vault)
-![](https://knut.in/project-status/git-credential-vault)
+This is a fork of [Luzifer/git-credential-vault](https://github.com/Luzifer/git-credential-vault). Mostly done to keep the dependencies up-to-date.
 
-# Luzifer / git-credential-vault
+# git-credential-vault
 
 `git-credential-vault` is an implementation of the [Git Credential Storage](https://git-scm.com/book/en/v2/Git-Tools-Credential-Storage) utilizing [Vault](https://www.vaultproject.io/) as storage backend.
 
