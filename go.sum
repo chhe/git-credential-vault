@@ -6,6 +6,8 @@ github.com/Luzifer/go_helpers/v2 v2.13.0 h1:R/U4qEyf8J3kwBbOzFrE/ongBc4purK/gq2u
 github.com/Luzifer/go_helpers/v2 v2.13.0/go.mod h1:HVMy8b4LwntHF8AtCf0LrAlYGRAumstLus8oK67e0hU=
 github.com/Luzifer/go_helpers/v2 v2.23.0 h1:VowDwOCl6nOt+GVqKUX/do6a94pEeqNTRHb29MsoGX4=
 github.com/Luzifer/go_helpers/v2 v2.23.0/go.mod h1:BSGkJ/dxqs7AxsfZt8zjJb4R6YB5dONS+/ad7foLUrk=
+github.com/Luzifer/go_helpers/v2 v2.24.0 h1:abACOhsn6a6c6X22jq42mZM1wuOM0Ihfa6yzssrjrOg=
+github.com/Luzifer/go_helpers/v2 v2.24.0/go.mod h1:KSVUdAJAav5cWGyB5oKGxmC27HrKULVTOxwPS/Kr+pc=
 github.com/Luzifer/rconfig/v2 v2.4.0 h1:MAdymTlExAZ8mx5VG8xOFAtFQSpWBipKYQHPOmYTn9o=
 github.com/Luzifer/rconfig/v2 v2.4.0/go.mod h1:hWF3ZVSusbYlg5bEvCwalEyUSY+0JPJWUiIu7rBmav8=
 github.com/Luzifer/rconfig/v2 v2.5.0 h1:zx5lfQbNX3za4VegID97IeY+M+BmfgHxWJTYA94sxok=
