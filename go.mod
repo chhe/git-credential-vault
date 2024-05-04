@@ -3,7 +3,7 @@ module github.com/chhe/git-credential-vault
 go 1.22
 
 require (
-	github.com/Luzifer/go_helpers/v2 v2.24.0
+	github.com/Luzifer/go_helpers/v2 v2.25.0
 	github.com/Luzifer/rconfig/v2 v2.5.0
 	github.com/hashicorp/vault/api v1.13.0
 	github.com/pkg/errors v0.9.1
