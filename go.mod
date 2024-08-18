@@ -4,7 +4,7 @@ go 1.23.0
 
 require (
 	github.com/Luzifer/go_helpers/v2 v2.25.0
-	github.com/Luzifer/rconfig/v2 v2.5.0
+	github.com/Luzifer/rconfig/v2 v2.5.1
 	github.com/hashicorp/vault/api v1.14.0
 	github.com/pkg/errors v0.9.1
 	github.com/sirupsen/logrus v1.9.3
