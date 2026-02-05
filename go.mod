@@ -5,7 +5,7 @@ go 1.24
 toolchain go1.24.13
 
 require (
-	github.com/Luzifer/go_helpers/v2 v2.25.0
+	github.com/Luzifer/go_helpers/v2 v2.25.2
 	github.com/Luzifer/rconfig/v2 v2.6.1
 	github.com/hashicorp/vault/api v1.22.0
 	github.com/pkg/errors v0.9.1
