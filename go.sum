@@ -1,5 +1,5 @@
-github.com/Luzifer/go_helpers/v2 v2.25.2 h1:+Jep9wcaUQiTYAfrbUpAuGsKhcCd/+s7NdU7HPNwJos=
-github.com/Luzifer/go_helpers/v2 v2.25.2/go.mod h1:paTKeBe4OheFvMUfuzX5Wzt+piacG4rz96rOGciJu44=
+github.com/Luzifer/go_helpers/v2 v2.25.3 h1:5lr6lsL/JciKPE+eg/9i9eRuE0IYFjgeIrUVzxI+PJg=
+github.com/Luzifer/go_helpers/v2 v2.25.3/go.mod h1:MeWTngp4Jxf9ScD8dL9E10RxhYFM468YUMlvKRfL610=
 github.com/Luzifer/rconfig/v2 v2.6.1 h1:n8iAygRdri/yRqhOYtU80TcWyrzuEpeIhBmdseVtZo8=
 github.com/Luzifer/rconfig/v2 v2.6.1/go.mod h1:EmQawSlworIE4tMTHdSCHu1exXG8peNqj7tJtrYYleU=
 github.com/cenkalti/backoff/v4 v4.3.0 h1:MyRJ/UdXutAwSAT+s3wNd7MfTIcy71VQueUuFK343L8=
