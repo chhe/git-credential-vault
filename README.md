@@ -1,6 +1,6 @@
-This is a fork of [Luzifer/git-credential-vault](https://github.com/Luzifer/git-credential-vault). Mostly done to keep the dependencies up-to-date.
-
 # git-credential-vault
+
+This is a fork of [Luzifer/git-credential-vault](https://github.com/Luzifer/git-credential-vault). Mostly done to keep the dependencies up-to-date.
 
 `git-credential-vault` is an implementation of the [Git Credential Storage](https://git-scm.com/book/en/v2/Git-Tools-Credential-Storage) utilizing [Vault](https://www.vaultproject.io/) as storage backend.
 
@@ -8,7 +8,7 @@ The only supported action is `get` as storage is managed through Vault related t
 
 ## Expected Vault structure
 
-```
+```text
 secret/git-credentials (pass this to --vault-path-prefix)
  +- github.com
  |   +- username = api
