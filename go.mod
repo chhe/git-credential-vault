@@ -2,7 +2,7 @@ module github.com/chhe/git-credential-vault
 
 go 1.25
 
-toolchain go1.27.1
+toolchain go1.27.2
 
 require (
 	github.com/Luzifer/go_helpers/v2 v2.25.3
